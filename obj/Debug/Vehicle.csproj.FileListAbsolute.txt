@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\DOCUMENT\nam3k1\KI_2\C#\Vehicle\bin\Debug\Vehicle.exe.config
+C:\Users\USER\Desktop\DOCUMENT\nam3k1\KI_2\C#\Vehicle\bin\Debug\Vehicle.exe
+C:\Users\USER\Desktop\DOCUMENT\nam3k1\KI_2\C#\Vehicle\bin\Debug\Vehicle.pdb
+C:\Users\USER\Desktop\DOCUMENT\nam3k1\KI_2\C#\Vehicle\obj\Debug\Vehicle.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\DOCUMENT\nam3k1\KI_2\C#\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DOCUMENT\nam3k1\KI_2\C#\Vehicle\obj\Debug\Vehicle.exe
+C:\Users\USER\Desktop\DOCUMENT\nam3k1\KI_2\C#\Vehicle\obj\Debug\Vehicle.pdb
